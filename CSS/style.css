@@ -14,10 +14,10 @@ p {
 .first-pararaph 
 {
     background-color: #99d5e6;
+    margin: 50px 100px 100px 200px;
     width: 400px;
     height: 100px;
-    padding-top: 20px;
-    margin: 0 auto 0 auto
+    padding: 20px 20px 20px 20px
 }
 
 #second-paragraph 
@@ -30,10 +30,21 @@ p {
     margin: 50px 100px 100px 200px;
 }
 
-.main-picture 
-{
-    margin:0 auto 0 auto
+.img-container {
+    width: 700px;
+    margin:0 auto 0 auto;
  }
 
+ .main-picture {
+    width: 100%;
+ }
 
+ .img-container-2 {
+    width: 700px;
+    margin: 0 auto 0 auto;
+ }
+
+.second-picture {
+    width: 100%;
+}
  
