@@ -1,0 +1,27 @@
+body {
+    background-color: cadetblue;
+    color: #ffffff;
+}
+
+header {
+    background-color: rgb(187, 243, 245);
+}
+
+p {
+    background-color: bisque;
+}
+
+.first-pararaph 
+{
+    background-color: rgb(153, 153, 230);
+    width: 400px;
+    height: 100px;
+}
+
+#second-paragraph 
+{
+    background-color: darkgray;
+    color: #0a0101;
+    width: 200px;
+    height: 400px;
+}
