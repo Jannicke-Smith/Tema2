@@ -13,15 +13,27 @@ p {
 
 .first-pararaph 
 {
-    background-color: rgb(153, 153, 230);
+    background-color: #99d5e6;
     width: 400px;
     height: 100px;
+    padding-top: 20px;
+    margin: 0 auto 0 auto
 }
 
 #second-paragraph 
 {
-    background-color: darkgray;
-    color: #0a0101;
-    width: 200px;
-    height: 400px;
+    background-color:#99d5e6 ;
+    color: #ffffff;
+    width: 400px;
+    height: 200px;
+    padding: 20px 20px 20px 20px;
+    margin: 50px 100px 100px 200px;
 }
+
+.main-picture 
+{
+    margin:0 auto 0 auto
+ }
+
+
+ 
