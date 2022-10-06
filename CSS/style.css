@@ -1,3 +1,4 @@
+
 body {
     background-color: cadetblue;
     color: #ffffff;
@@ -5,6 +6,13 @@ body {
 
 header {
     background-color: rgb(187, 243, 245);
+    display: none;
+}
+
+@media screen and (min-width: 1000px) {
+    header {
+        
+    }
 }
 
 p {
@@ -48,3 +56,10 @@ p {
     width: 100%;
 }
  
+.my-box{
+    width: 400px;
+    height: 400px;
+    
+    
+    
+}
