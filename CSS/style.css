@@ -6,11 +6,16 @@ body {
 
 header {
     background-color: rgb(187, 243, 245);
-    display: none;
+}
+
+header ul {
+    list-style: none;
+    display: flexs
 }
 
 @media screen and (min-width: 1000px) {
     header {
+        display: flex;
         
     }
 }
